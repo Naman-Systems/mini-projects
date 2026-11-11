@@ -3,7 +3,7 @@ import { useLoaderData } from 'react-router-dom'
 export default function Github() {
     // const [data,setData] = useState([])
     // useEffect(()=>{
-    //     fetch('https://api.github.com/users/NamanBharsakale')
+    //     fetch('https://api.github.com/users/-')
     //     .then(res=>res.json())
     //     .then(data => {
     //         console.log(data)
